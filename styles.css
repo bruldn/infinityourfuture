@@ -7,3 +7,13 @@ h3 {
 p {
     text-align: justify;
 }
+.a {
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    widht: 70px;
+    border-radius: 8px;
+}
+
+    
