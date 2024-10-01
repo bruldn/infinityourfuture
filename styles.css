@@ -16,6 +16,9 @@ h3 {
 p {
     text-align: justify;
     color: white;
+    max-width: 600px; 
+    margin: 0 auto;   
+    line-height: 1.6;
 }
 
 .image-container {
