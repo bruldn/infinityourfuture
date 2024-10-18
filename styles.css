@@ -10,7 +10,12 @@ h2 {
 
 h3 {
     text-align: center;
-    color: rgb(114, 190, 236)
+    color: rgb(254, 255, 255)
+}
+
+h4 {
+    text-align: center;
+    color:ghostwhite
 }
 
 p {
@@ -26,7 +31,7 @@ p {
 }
 
 .button {
-    background-color: brown;
+    background-color: rgba(231, 97, 49, 0.583);
             color: white;
             padding: 15px 32px;
             text-align: center;
